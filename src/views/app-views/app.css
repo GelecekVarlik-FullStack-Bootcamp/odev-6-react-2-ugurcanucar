@@ -1,0 +1,39 @@
+.app-views-main {
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(234, 233, 233);
+}
+.app-views-wrapper {
+  max-width: 50vw;
+  width: 100%;
+  padding: 60px;
+  border-radius: 10px;
+  border: 1px solid #c3c3c3;
+  background-color: white;
+}
+.button-group {
+  display: flex;
+  align-items: center;
+  gap: 1vw;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.button-group button {
+  padding: 10px 20px;
+}
+.filter-group {
+  display: flex;
+  width: 100%;
+  margin-bottom: 10px;
+  gap: 20px;
+}
+.filter-group button {
+  padding: 9px 20px;
+}
+select {
+  width: 100%;
+}
