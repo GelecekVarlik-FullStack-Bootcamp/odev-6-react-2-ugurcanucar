@@ -10,6 +10,11 @@ Hakan hocamızın verdiği docker'ı ayağa kaldırdıktan sonra projeye girip
 
 `npm install` yazarak proje içinde bulunan paketleri kuruyoruz. Daha sonra `npm start` komutu ile projeye erişim sağlayabilirsiniz.
 
+### Canlı Versiyon için :
+
+Docker ayağa kaldırıldıktan sonra :  
+[link](https://benevolent-florentine-368267.netlify.app "Canlı Versiyon")
+
 ### Yapımcı
 
 -Uğurcan Uçar
